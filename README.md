@@ -1,3 +1,5 @@
 This project predicts if a patient will be readmitted to the hospital or not. It has been developed in python and various machine learning methods have been applied. It was a class project developed while I took Data Science class at general Assembly, Sydney.
 
-Re-admissions are major health care concern for most countries like US, UK, Australia and many others. This leads to increased wait times, increased medical errors resulting in risking patient safety and unnecessary deaths. It also puts huge monetary burden on the hospitals as well as the government. In this project, I want to identify patients who are likely to be readmitted to the hospital. By doing this, proper care and management of such patients can be planned by their care providers.
+Re-admissions are major health care concern for most countries like US, UK, Australia and many others. This leads to increased wait times, increased medical errors resulting in risking patient safety and unnecessary deaths. It also puts huge monetary burden on the hospitals as well as the government. 
+
+In this project, I want to identify patients who are likely to be readmitted to the hospital. By doing this, proper care and management of such patients can be planned by their care providers.
